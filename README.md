@@ -31,7 +31,7 @@ The network will start training and verification automatically.
 You can see the images generated during training in the folder "train_show_dir".
 
 ```bash
-git clone this
+git clone https://github.com/One-sixth/DGL-Classify-Ring
 cd ./DGL-Classify-Ring
 python gnn_example.py
 ```
