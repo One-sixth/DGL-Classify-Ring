@@ -1,0 +1,7 @@
+numpy
+networkx
+matplotlib
+imageio
+# pytorch 和 dgl 需要手动安装
+# torch
+# dgl
